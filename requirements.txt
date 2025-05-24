@@ -1,6 +1,5 @@
-gradio
-transformers
-torch
-pandas
+fastapi
+uvicorn
+tensorflow
 numpy
 scikit-learn
